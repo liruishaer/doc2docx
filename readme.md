@@ -1,4 +1,5 @@
-1. 安装pypiwin32模块
+1. 瀹夎pypiwin32妯″潡
 python -m pip install pypiwin32
-2. 测试调用模块
+
+2. 娴嬭瘯璋冪敤妯″潡
 from win32com import client as wc
